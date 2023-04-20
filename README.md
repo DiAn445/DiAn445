@@ -6,4 +6,3 @@
 <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=red"/> <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=red"/>
 <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=red"/> <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=red"/>
 
-![GitHub top language](https://img.shields.io/github/languages/top/DiAn445/*?color=blue&label=Python%20%26%20JavaScript)
