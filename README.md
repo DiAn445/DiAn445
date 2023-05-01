@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-### Skills
+### Skills:
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=red"/> <img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=red"/> <img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=red"/>
 <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=red"/> <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=red"/>
 <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=red"/> <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=red"/>
